@@ -1,0 +1,20 @@
+.directions {
+    width: 20%;
+    float: left;
+    border: 1px solid #000;
+    border-radius: 3px;
+    text-align: center;
+    margin-top: 1%;
+    margin-left: 5%;
+}
+
+.chooseDirection {
+    font-size: 110%;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.direct {
+    color: #000;
+    text-decoration: none;
+}

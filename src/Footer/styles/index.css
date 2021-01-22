@@ -1,0 +1,28 @@
+.footer {
+    width: 90%;
+    height: 10%;
+    position: fixed;
+    left: 5%; bottom: 0%;
+    border: 1px solid #000;
+    border-radius: 3px;
+    background-color: #BDB76B;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40%;
+}
+
+.footerEmail {
+    font-size: 95%;
+    text-align: center;
+    padding-top: 1%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footerCopyright {
+    font-size: 95%;
+    text-align: center;
+    padding-bottom: 1%;
+    margin-left: auto;
+    margin-right: auto;
+}

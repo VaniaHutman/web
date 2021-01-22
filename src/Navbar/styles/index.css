@@ -1,0 +1,12 @@
+.navBar {
+    text-align: center;
+    width: 90%;
+    height: 40%;
+    position: relative;
+    border: 1px solid #000;
+    border-radius: 3px;
+    background-color: #BDB76B;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2px;
+}

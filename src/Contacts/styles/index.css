@@ -1,0 +1,10 @@
+.board {
+    width: 90%;
+    height: 20%;
+    position: relative;
+    border: 1px solid #000;
+    border-radius: 3px;
+    margin-right: auto;
+    margin-left: 5%;
+    padding-top: 10px;
+}

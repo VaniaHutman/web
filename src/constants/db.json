@@ -1,0 +1,38 @@
+[
+{
+    "ways": [
+        {
+            "start_stop": "Черкаси",
+            "finish_stop": "Київ"
+        },
+        {
+            "start_stop": "Черкаси",
+            "finish_stop": "Чигирин"
+        },
+        {
+            "start_stop": "Черкаси",
+            "finish_stop": "Сміла"
+        },
+        {
+            "start_stop": "Черкаси",
+            "finish_stop": "Золотоноша"
+        },
+        {
+            "start_stop": "Золотоноша",
+            "finish_stop": "Черкаси"
+        },
+        {
+            "start_stop": "Сміла",
+            "finish_stop": "Черкаси"
+        },
+        {
+            "start_stop": "Чигирин",
+            "finish_stop": "Черкаси"
+        },
+        {
+            "start_stop": "Київ",
+            "finish_stop": "Черкаси"
+        }
+    ]
+}
+]
